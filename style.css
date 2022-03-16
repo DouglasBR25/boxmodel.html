@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&family=Patrick+Hand&family=Smooch+Sans:wght@200&display=swap');
+h1{
+    font-family: 'Patrick Hand', cursive;
+}
+
+.post .date {
+    font-family: 'Smooch Sans', sans-serif;
+    color:#0077b6;
+    padding-top: 10px;
+}
+
+.content{
+    font-family: 'Open Sans', sans-serif;
+}
+
+.principal{
+    width: 50%;
+    margin: auto;
+    background-color: #F0cbaf;
+    padding-top: 10px;
+    padding-left: 15px;
+    padding-bottom:10px;
+}
